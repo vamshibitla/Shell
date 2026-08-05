@@ -1,2 +1,3 @@
 # Shell
-Schell Scripts fully CHANGED
+<<<<<<< HEAD
+Main Schell Scripts updated newly into the feature branch
