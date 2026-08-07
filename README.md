@@ -1,3 +1,3 @@
 # Shell
-<<<<<<< HEAD
-Main Schell Scripts updated newly into the feature branch
+
+Schell Scripts of the feature branch
